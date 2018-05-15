@@ -1,3 +1,4 @@
-# This is CIFAR-10 image training code.
+# Things that I study of ML
 
-I'm trying to run this project on python 3 from the code written in python 2.
+CIFAR-10 : use CIFAR-10 dataset for image classification project. 
+It worked on python 2, now i'm trying to change it into python 3. Almost everything wokrs okay but have an error on evaluation. Don't know how to fix it yet. 
